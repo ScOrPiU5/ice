@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "@ice/runtime": "alpha",
-    "react": "experimental",
-    "react-dom": "experimental"
+    "react": "0.14.10",
+    "react-dom": "0.14.10"
   },
   "devDependencies": {
     "@ice/app": "alpha",
