@@ -7,7 +7,7 @@
     "build": "ice build"
   },
   "dependencies": {
-    "@ice/runtime": "alpha",
+    "@ice/runtime": "1.4.5",
     "react": "experimental",
     "react-dom": "experimental"
   },
